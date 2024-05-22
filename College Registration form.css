@@ -1,0 +1,195 @@
+body{
+	background:whitesmoke;
+
+
+}
+
+p{
+	font-size: 18px;
+
+}
+
+
+form{
+text-align: center;
+	background: skyblue;
+	height: 1300px;
+	width: 800px;
+	margin-top: 2%;
+	border-radius: 10px;
+
+	
+}
+
+
+h1{
+	color: black;
+	font-style:normal;
+	margin-top: 5%;
+}
+
+
+
+span{
+	color: blue;
+}
+
+span1{
+	color: blue;
+}
+
+button{
+	background-color: blue;
+	color:white;
+	font-size: 1em;
+}
+
+input[type="submit"]{
+	background-color: blue;
+	color:white;
+	padding: 10px 25px;
+	border: none;
+	border radius: 4px;
+	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	background-color: #45a049;
+}
+
+input[type="firstname"]{
+	background-color: whitesmoke;
+	border-radius: 5px;
+	padding: 10px; 
+	width: 250px;
+	line-height: 15px;
+	border: none;
+
+
+
+}
+
+input[type="lastname"]{
+	background-color: whitesmoke;
+	border-radius: 5px;
+	padding:10px;
+	border: none;
+	width:250px;
+}
+
+input[type="email"]{
+	padding: 10px;
+	border-radius: 5px;
+	background-color: whitesmoke;
+	border: none;
+	width: 250px;
+
+}
+
+input[type="Street Address"]{
+	background-color: whitesmoke;
+	border-radius: 5px;
+	padding:10px;
+	border:none;
+	width: 250px;
+}
+
+
+
+input[type="Date"]{
+
+	background-color:whitesmoke;
+	border-radius:  5px;
+	padding:10px;
+	width: 250px;
+	border: none;
+	margin-top: 10px;
+
+}
+
+input[type="phoneNumber"]{
+	background-color:whitesmoke;
+	border-radius:  5px;
+	padding:10px;
+	width: 250px;
+	border: none;
+
+}
+
+input[type="text"]{
+	background-color:whitesmoke;
+	border-radius:  5px;
+	padding:10px;
+	width: 250px;
+	border: none;
+}
+
+input[type="Zipcode"]{
+	background-color:whitesmoke;
+	border-radius:  5px;
+	padding:10px;
+	width: 250px;
+	border: none;
+
+}
+.name{
+	line-height: 2px;
+	margin-right: 220px;
+}
+
+.date{
+	margin-right: 175px;
+	line-height: 15px;
+}
+
+.phone{
+	margin-right: 220px;
+	line-height: 28px;
+}
+
+.email{
+	line-height: 25px;
+	margin-right: 220px;
+}
+
+.home{
+	line-height: 25px;
+	margin-right: 170px;
+}
+
+.city{
+	
+	line-height: 25px;
+	margin-right: 230px;
+}
+
+.select{
+	background-color:whitesmoke;
+	border-radius: 5px;
+	padding:10px;
+	width: 260px;
+	border: none;
+	color: grey;
+}
+
+p{
+	margin-left: 80px;
+}
+
+.gender{
+	display: flex;
+	flex-direction: row;
+	margin-left: 260px;
+
+}
+
+.gender1{
+	margin-right: 210px;
+	
+}
+
+.nationality{
+	margin-right: 190px;
+	line-height: 25px;
+}
+
